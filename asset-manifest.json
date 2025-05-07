@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/haile121/Malona_Burger_Website/static/css/main.69f29259.css",
+    "main.js": "/haile121/Malona_Burger_Website/static/js/main.d0b981e3.js",
+    "static/js/453.7d6ddd97.chunk.js": "/haile121/Malona_Burger_Website/static/js/453.7d6ddd97.chunk.js",
+    "static/media/backGforBurWeb.jpg": "/haile121/Malona_Burger_Website/static/media/backGforBurWeb.7b20d919b78fafc10c03.jpg",
+    "static/media/chibur.png": "/haile121/Malona_Burger_Website/static/media/chibur.3fb091b860c8e90be39a.png",
+    "static/media/tombur.png": "/haile121/Malona_Burger_Website/static/media/tombur.4d57dc8f601683d74f69.png",
+    "static/media/logo11.png": "/haile121/Malona_Burger_Website/static/media/logo11.0ae82b1dabd8893824dc.png",
+    "index.html": "/haile121/Malona_Burger_Website/index.html",
+    "main.69f29259.css.map": "/haile121/Malona_Burger_Website/static/css/main.69f29259.css.map",
+    "main.d0b981e3.js.map": "/haile121/Malona_Burger_Website/static/js/main.d0b981e3.js.map",
+    "453.7d6ddd97.chunk.js.map": "/haile121/Malona_Burger_Website/static/js/453.7d6ddd97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f29259.css",
+    "static/js/main.d0b981e3.js"
+  ]
+}
